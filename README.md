@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Mexidense&color=brightgreen)
 
-I'm a software engineer at @Busuu
+I'm a software engineer at [@Busuu](https://github.com/Busuu)
 
 - 🔭 I’m currently working on architecting a robust and scalable backend system for cutting-edge web service platforms. Embracing microservices and event-driven architecture to enhance system responsiveness and maintainability.
 
@@ -19,3 +19,15 @@ I'm a software engineer at @Busuu
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: I'm Mexican and when I eat spicy I always get hiccups attacks.
+
+## Last read books:
+
+### Software engineering
+
+- Tidy First?: A Personal Exercise in Empirical Software Design by Kent Beck
+- Distributed systems with Node.js: building enterprise-ready backend services by Thomas Hunter II
+- Fundamentals of software architecture: An engineering approach by Mark Richards & Neal Ford
+- Technology strategy patterns: Analyzing and communicating architectural decisions by Eben Hewitt
+- Software architecture: Modern trade-off analyses for distributed architectures by Mark Richards & Neal Ford
+- Domain-Driven Design in PHP: A Highly Practical Guide by Carlos Buenosvinos
+- Clean Code & Clean Architecture by Robert C. Martin
