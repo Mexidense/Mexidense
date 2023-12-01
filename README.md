@@ -14,7 +14,7 @@ I'm a software engineer at @Busuu
 
 - 💬 Ask me about my experience in building and scaling asynchronous processes, using message queues or streaming messages to background job processing. I'm passionate about optimizing workflows and ensuring seamless user experiences.
 
-- 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sbrionesr/)] or drop me an email at mexidense@gmail.com. I'm always open to discussing exciting opportunities or engaging in conversations about software engineering.
+- 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sbrionesr/) or drop me an email at mexidense@gmail.com. I'm always open to discussing exciting opportunities or engaging in conversations about software engineering.
 
 - 😄 Pronouns: He/Him
 
