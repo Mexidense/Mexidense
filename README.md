@@ -20,15 +20,21 @@ I'm a software engineer at [@Busuu](https://github.com/Busuu)
 
 ## Last read books:
 
-### Software engineering
+### Software engineering books
 
-- Tidy First?: A Personal Exercise in Empirical Software Design by Kent Beck
-- Distributed systems with Node.js: building enterprise-ready backend services by Thomas Hunter II
-- Fundamentals of software architecture: An engineering approach by Mark Richards & Neal Ford
-- Technology strategy patterns: Analyzing and communicating architectural decisions by Eben Hewitt
-- Software architecture: Modern trade-off analyses for distributed architectures by Mark Richards & Neal Ford
-- Domain-Driven Design in PHP: A Highly Practical Guide by Carlos Buenosvinos
-- Clean Code & Clean Architecture by Robert C. Martin
+- The Software Engineer's Guidebook _by Gergely Orosz_
+- Tidy First?: A Personal Exercise in Empirical Software Design _by Kent Beck_
+- Distributed systems with Node.js: building enterprise-ready backend services _by Thomas Hunter II_
+- Fundamentals of software architecture: An engineering approach _by Mark Richards & Neal Ford_
+- Technology strategy patterns: Analyzing and communicating architectural decisions _by Eben Hewitt_
+- Software architecture: Modern trade-off analyses for distributed architectures _by Mark Richards & Neal Ford_
+- Domain-Driven Design in PHP: A Highly Practical Guide _by Carlos Buenosvinos_
+- Clean Code & Clean Architecture _by Robert C. Martin_
+
+### Communication engineering books
+
+- The First Minute (How to start conversations that get results) _by Chris Fenning_
+- Communications patterns (A Guide for Developers and Architects) _by Jacqui Read_
 
 
 
