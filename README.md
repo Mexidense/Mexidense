@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer at [@Busuu](https://github.com/Busuu)
+I'm a software engineer at [@Feverup](https://github.com/Feverup)
 
 - 🔭 I’m currently working on architecting a robust and scalable backend system for cutting-edge web service platforms. Embracing microservices and event-driven architecture to enhance system responsiveness and maintainability.
 
